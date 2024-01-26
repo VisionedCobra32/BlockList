@@ -1,13 +1,13 @@
-g-fallback.whatsapp.net	
-ns.whatsapp.net	
-d.ns.whatsapp.net	
-c.ns.whatsapp.net	
-a.ns.whatsapp.net	
-chat.cdn.whatsapp.net	
-static.whatsapp.net	
-g.whatsapp.net	
-call.whatsapp.com	
-api.whatsapp.com	
-c.whatsapp.net	
-chat.whatsapp.com	
-v.whatsapp.net	
+0.0.0.0 g-fallback.whatsapp.net	
+0.0.0.0 ns.whatsapp.net	
+0.0.0.0 d.ns.whatsapp.net	
+0.0.0.0 c.ns.whatsapp.net	
+0.0.0.0 a.ns.whatsapp.net	
+0.0.0.0 chat.cdn.whatsapp.net	
+0.0.0.0 static.whatsapp.net	
+0.0.0.0 g.whatsapp.net	
+0.0.0.0 call.whatsapp.com	
+0.0.0.0 api.whatsapp.com	
+0.0.0.0 c.whatsapp.net	
+0.0.0.0 chat.whatsapp.com	
+0.0.0.0 v.whatsapp.net	
